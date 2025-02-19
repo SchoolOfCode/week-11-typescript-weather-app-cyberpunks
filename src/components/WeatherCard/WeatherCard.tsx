@@ -1,9 +1,5 @@
-
-
 const WeatherCard = () => {
-  return (
-    <div>WeatherCard</div>
-  )
-}
+  return <div>WeatherCard</div>;
+};
 
-export default WeatherCard
+export default WeatherCard;
